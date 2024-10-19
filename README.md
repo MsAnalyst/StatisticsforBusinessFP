@@ -1,1 +1,2 @@
 # StatisticsforBusinessFP
+We analyze sleep as a fundamental physiological process that plays a crucial role in maintaining our overall health and well being. Based on the recorded data of employees from different industries, the data is explored to identify underlying patterns in sleep data and the major factors to sleep disorders, enabling businesses to make informed decisions to enhance employee wellness programs and optimize productivity. The statistics are evaluated using the Regression Model. 
